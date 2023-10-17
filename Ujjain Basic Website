@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HomeTown Website</title>
+    <link href="https://fonts.googleapis.com/css2?family=Merriweather&family=Montserrat&family=Sacramento&display=swap"
+        rel="stylesheet">
+    <style>
+        .title {
+            font-family: 'Montserrat', cursive;
+            opacity: 0.9;
+        }
+        .header {
+            background: rgba(0, 0, 0, 0.5);
+            background-image: url(ram\ ghat\ main.webp);
+            background-blend-mode: darken;
+            background-size: cover;
+            height: 500px;
+            width: 100%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-size: large;
+            color: #D2DAFF;
+        }
+        body {
+            background-color: #EBE4D1;
+            font-family: sans-serif;
+            padding: 0 20px;
+        }
+        .overview {
+            background-color:#26577C;
+            text-align: center;
+            color:#B4B4B3;
+        }
+        .images {
+            height: 180px;
+            width: 240px;
+            border-radius: 10px;
+        }
+        .img1 {
+            float: left;
+        }
+        .img2 {
+            float: left;
+        }
+        .img3 {
+            float: left;
+        }
+        .div1 {
+            display: flex;
+        }
+        .div2 {
+            display: flex;
+        }
+        .div3 {
+            display: flex;
+        }
+        .div4 {
+            display: flex;
+        }
+        .div5 {
+            display: flex;
+        }
+        .div6 {
+            display: flex;
+        }
+        .div7 {
+            display: flex;
+        }
+        .para1 {
+            margin-left: 20px;
+            padding-top: 30px;
+        }
+        .MustVisit{
+            background-color: rgba(174, 201, 225, 0.429);
+            padding: 10px;
+        }
+        .para2 {
+            padding-right: 160px;
+            padding-top: 50px;
+            padding-bottom: 60px;
+            margin-left: 20px;
+        }
+        .para3 {
+            padding-right: 160px;
+            padding-top: 50px;
+            padding-bottom: 60px;
+            margin-left: 20px;
+        }
+        .para4 {
+            padding-right: 160px;
+            padding-top: 50px;
+            padding-bottom: 60px;
+            margin-left: 20px;
+        }
+        .para5 {
+            padding-right: 160px;
+            padding-top: 50px;
+            padding-bottom: 60px;
+            margin-left: 20px;
+        }
+        p {
+            font-size: 17px;
+            line-height: 1.3;
+        }
+        .image-folder {
+            display: flex;
+            justify-content: space-around;
+        }
+        footer {
+            height: 40px;
+            width: 100%;
+            /* background-color: rgb(64, 163, 220); */
+            background-color: #26577C;
+            font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+            text-align: center;
+        }
+        .endText {
+            padding-top: 5px;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1 class="title">
+    </div>
+    <div class="content">
+        <h1 class="overview">UJJAIN (The City Of Gods)</h1>
+        <div class="points">
+            <h3 class="h3s">Geography:</h3>
+            <p> Ujjain is its central location scientifically. Astrology began and developed in this centrally located city of Mahakaal.
+                Ujjain has provided the system of calculation of time to India and Foreign countries. This type of the natural geographical and astrological importance of Ujjain is needed to be understood.
+                
+                Importance of Ujjain Geographically
+                
+                On the beautiful bank of Kshipra and on the plateau of Malwa, Ujjain is situated at the height of 491.74o above sea level and at 23.11o longitude north and 75.50o East latitude. Ujjain has a fine moderate temperature and therefore the climate is found pleasant here generally.</p>
+            <hr>
+            <h3 class="h3s">Climate:</h3>
+            <p>The atmospheric conditions prevailing in this region are of a tropical nature. In winter, there is much less rainfall in Ujjain than in summer. According to the Köppen-Geiger classification, the prevailing climate in this region is categorized as Aw. In Ujjain, the average annual temperature is 25.2 °C | 77.4 °F. The annual precipitation in this location is approximately 943 mm | 37.1 inch.
+                The location Ujjain is located in a temperate zone, making it difficult to categorize the seasons. The most opportune time to visit are March, September, October, November.</p>
+            <h3>Must visit:</h3>
+            <hr>
+            <div class="Must visit">
+                <div class="div1">
+                    <img class="images img1" src="mahakal2.jpeg" alt="Mahakal">
+                    <p class="para1"><br>
+                        <b>Mahakaleshwar Temple: </b>The divinity associated with the holy city of Ujjain is centred around the Mahakaleshwar Jyotirlinga placed inside the temple also known as Mahakal Mandir. The temple is dedicated to Hindu deity Shiva, 
+                        believed to be the god of time and death. He is called Mahakaleshwar, made up of the two meanings of the word kaal – time and death.
+                        These jyotirlingas, or shrines, are believed to be the most sacred abodes of Shiva. According to the Puranas, the Hindu god pierced the world as an endless pillar of light called the jyotirlinga.
+                
+                    </p>
+                </div><br><br>
+                <div class="div2">
+                    <img class="images img2" src="  Mangalnath.jpeg" alt="Mangalnath"> 
+                    <p class="para1">
+                           <b>Mangalnath Temple: </b>The Mangalnath Temple is a Hindu temple located in the Ujjain city of Madhya Pradesh. It is dedicated to Mahadeva, the guardian deity of 
+                           the city. Located on the banks of the Shipra River, it is one of the most active temples in the city, visited by hundreds of devotees
+                           daily. It is regarded as the birthplace of Mars (mangala in Hindi), according to the Matsya Purana.[1] Famous for a clear view of the planet and hence suitable for astronomical studies.[2][3][4] Mahant
+                           Rajendra Bharti is the official Gadipati of the Mangalnath Temple. [1] This temple is famous for magal dosh nivaran Bhaat Puja.
+                    </p>
+                </div><br><br><br>
+                <div class="div3">
+                    <img class="images img3" src="sandipani.jpeg" alt="Sandipani">
+                    <p class="para2">
+                        <b>Shri Sandipani Ashram: </b>Ancient Ujjain, apart from its political and religious importance, was a prestigious center of learning at the beginning of the Mahabharata period. Lord Krishna and Sudama received
+                        regular education in the ashram of Guru Sandipani. Maharishi Sandipani’s ashram is situated at Mangalnath road foot.
+                        The area near the ashram is known as Ankpat, a place believed to have been used by Lord Krishna to wash his writings.
+                        The numbers 1 to 100 found on a stone are believed to have been engraved by Guru Sandipani. The Gomti Kund mentioned in the Puranas was the source of water supply to the ashram in the olden days. An image of Nandi near the pond dates back to the Shunga period.
+                    </p>
+                </div>
+                <div class="div4">
+                    <img class="images img1" src="ram ghat.jpeg" alt="ramghat">
+                    <p class="para3">
+                        <b>Ram Ghat: </b>The Shipra, also known as the Kshipra, is a river in Madhya Pradesh state of central India. The river rises in the North of 
+                        Dhar district, and flows north across the Malwa Plateau to join the Chambal River at the MP-Rajasthan boundary in 
+                        Mandsaur district. It is one of the sacred rivers in Hinduism. The holy city of Ujjain is situated on its east bank.
+                        Every 12 years, the Sinhastha fair (Kumbh Mela) takes place on the city's elaborate riverside ghats,
+                        as do yearly celebrations of the river goddess Kshipra. There are hundreds of Hindu shrines along the banks of the river Shipra.
+                    </p>
+                </div>
+                <div class="div5">
+                    <img class="images img2" src="chintaman ganesh.jpeg" alt="chintaman">
+                    <p class="para4">
+                        <b>Chintaman ganesh temple: </b>Chintaman Ganesh is the biggest temple of Lord Ganesha in Ujjain of Madhya Pradesh, India. This temple is built across the Kshipra river on the Fatehabad
+                         railway line, and is located about 7 km far south-westerly to the Ujjain town. The temple is located now in the middle of the town's market.
+                        The Ganesha idol enshrined in this temple is supposed to be swayamabhu
+                         (self manifested). Locally, Ganesha is also referred to as Chintaman. His consorts, Ridhhi and Siddhi, flank Chintaman, the assuager of all worries.[
+                    </p>
+                </div>
+                <div class="div6">
+                    <img class="images img2" src="kal bhairav.jpg" alt="kal bhairav">
+                    <p class="para5">
+                        <b>kal Bhairav temple: </b>The worship of the eight Bhairavas is a part of Saivite tradition and the chief among them is Kal Bhairava, believed to have been built by King Bhadresen, on the banks of the Shipra. There is 
+                        mention of a Kal Bhairva temple in the Avanti Khanda of the Skanda Purana. Worship of Kal Bhairava is believed to have been a part of the Kapalika and Aghora sects. Ujjain was a prominent centre of these two sects. Even today, liquor is offered as 
+                        a part of the ritual to Kal Bhairava Beautiful paintings in the Malwa style once decorated the temple walls, only traces of which are visible.
+                    </p>
+                </div>
+                <div class="div7">
+                    <img class="images img2" src="harsiddhi.jpeg" alt="harsiddhi">
+                    <p class="para5">
+                        <b>Harsiddhi mata temple: </b>This temple occupies a special place in the galaxy of ancient sacred spots of Ujjain. Seated between the idols of Mahalaxmi and Mahasaraswati, the idol 
+                        of Annapurna is painted in dark vermilion color. The Sri Yantra, the symbol of power or shakti, is also enshrined in the temple.According to the Shiva Purana, when Shiva carried away the burning body of Sati from the sacrificial fire, her elbow dropped at this place. 
+                        There is an interesting legend in the Skanda Purana about the manner in which the Goddess Chandi acquired the epithet of Harsiddhi. Once when Shiva and Parvati were alone on Mount Kailash, two demons Chand and Prachand tried to force their way in.
+                        Shiva called upon Chandi to destroy them which she did.
+                    </p>
+                </div>
+                <hr>
+            </div>
+        </div>
+    </div>
+    <h2 align="center" >Image Folder</h2>
+    <div class="image-folder">
+        <img class="images img1" src="kothi mahal.jpeg" alt="mahankal">
+        <img class="images img1" src="kalia deh mahal.jpeg" alt="mangalnath">
+        <img class="images img1" src="bhardari gufa.jpeg" alt="sandipani ashram">
+        <img class="images img1" src="kothi road.jpeg" alt="ramghat">
+    </div><br><br>
+    <div class="image-folder">
+        <img class="images img1" src="8.-Vedhshala-Observatory_jantar-mantar_1888574809.jpg" alt="jantar mantar">
+        <img class="images img1" src="gomti kund.jpg" alt="gomti">
+        <img class="images img1" src="vishnu sagar.jpeg" alt="vishne sagar">
+        <img class="images img1" src="tower.jpeg" alt="tower">
+    </div>
+    <footer>
+        <p class="endText"> Copyrighted @2021-25</p>
+    </footer>
+</body>
+</html>
